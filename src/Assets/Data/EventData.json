@@ -1,28 +1,31 @@
 [
   {
     "id": 1,
+    "title": "__init__ Saga",
+    "date":"28, 29th April 2025",
+    "time":"9:30 AM",
+    "venue":"MLRIT",
+    "image":"images/initsaga.png",
+    "image2":"Events/initsaga.png",
+    "description": "INIT SAGA is an exciting tech event designed to equip students with industry-relevant skills, foster innovation, and provide hands-on experience in real-world problem-solving. Inspired by the Python __init__ method, which signifies the beginning of an object’s journey.",
+    "status":"1",
+    "prize": "20,000/-",
+    "registrationLink": "https://initsaga.vercel.app/"
+  },
+  {
+    "id": 2,
     "title": "Zenith'24",
-    "date":"2-DEC 2021",
+    "date":"7-NOV 2024",
     "time":"9:30 AM",
     "venue":"MLRIT",
     "image":"images/zenith.png",
     "image2":"Events/zenith.jpg",
     "description": "Zenith'24 is a 3-day event that includes a 24-hour hackathon and workshops focused on building large language models (LLMs). Participants will have the opportunity to learn from experts, collaborate with peers, and develop innovative projects using state-of-the-art AI technologies.",
-    "status":"1",
+    "status":"0",
     "prize": "25,000/-",
     "registrationLink": "https://linktr.ee/mlritscope"
   },
-  {
-    "id": 2,
-    "title": "Interaction day 2024",
-    "date": "10-Sep-2024",
-    "time": "2 PM",
-    "venue": "MLRIT",
-    "image": "images/interaction.png",
-    "image2": "Events/INTERACTION_DAY_2024.webp",
-    "description": "Interaction Day 2024 was a vibrant event organized by the SCOPE Club, aimed at fostering connections and collaboration among students. The event featured interactive sessions, team-building activities, and insightful talks from industry experts, providing a platform for students to network and share ideas.",
-    "status": "0"
-  },
+  
   {
     "id": 3,
     "title": "Webmania 2.0",
@@ -30,7 +33,7 @@
     "time": "9:30 AM",
     "venue": "MLRIT",
     "image": "images/webmania.png",
-    "image2": "Events/Webmania.jpg",
+    "image2": "Events/webmania2.0_event.jpg",
     "description": "Webmania 2.0 is a 3-day event that includes a workshop on web development, a 24-hour hackathon, and a coding contest. The event is designed to help students learn new skills, build projects, and compete with their peers.",
     "status":"0"
   },
@@ -41,7 +44,7 @@
     "time": "2 PM",
     "venue": "MLRIT",
     "image": "images/careerzen.png",
-    "image2": "Events/CAREERZEN.webp",
+    "image2": "Events/carrerzen_event.jpg",
     "description": "CareerZen was a two hour session designed to empower members with the knowledge and skills necessary to navigate the complex landscape of career development. The event featured seasoned professionals, industry experts, and career counselors who shared valuable insights, tips, and strategies.",
     "status": "0"
   },

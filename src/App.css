@@ -131,7 +131,7 @@
 
 .hw-container {
   margin-bottom: 3%;
-  width: 200px;
+  width: 230px;
   height: 8vh;
   border-radius: 27.44px;
   border: 0.61px solid #36be00;
@@ -139,16 +139,18 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
-  padding-left: 10px;
+  padding-left: 2%;
+  padding-right: 2%;
 }
 
 .hw-text {
   font-family: turnkey-light;
-  font-size: 25px;
+  font-size: 1.5rem;
   color: white;
   margin: 0px;
-  width: fit-content;
+  width: 100%;
   text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .hw-arrow {
@@ -763,14 +765,13 @@ svg.twitter, svg.instagram, svg.linkedIn, svg.github {
 /* Mobile: 3x3 grid */
 @media (max-width: 768px) {
   
-  
   .green-container{
     height: 100vh;
   }
 
   .hw-container {
     height: 6vh;
-    width: 40%;
+    width: 30%;
     padding-right: 5px;
   }
 
@@ -791,9 +792,14 @@ svg.twitter, svg.instagram, svg.linkedIn, svg.github {
     font-size: 15px;
   }
 
+  .hw-container{
+    width: 150px;
+    height: 5vh;
+  }
+
 
   .hw-text {
-    font-size: 20px;
+    font-size: 1.1rem;
   }
 
   .inside-scope{
@@ -945,7 +951,7 @@ svg.twitter, svg.instagram, svg.linkedIn, svg.github {
   }
 
   .end-footer{
-    height: 25px;
+    height: 10px;
   }
   
   spline-viewer {
@@ -1057,4 +1063,8 @@ svg.twitter, svg.instagram, svg.linkedIn, svg.github {
     max-height: calc(100vh - 56px);
     overflow-y: auto;
   }
+}
+
+a#logo {
+  visibility: hidden;
 }

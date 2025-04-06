@@ -4,10 +4,13 @@ body {
 
 .NAVBAR{
     position: fixed;
+
     top: 0px;
-    width: 100%;
+    width: 100vw;
     z-index: 1000;
 }
+
+
 
 .NAVBAR.hidden {
   transform: translateY(-100%);
@@ -34,6 +37,29 @@ nav {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
+  display: block;
+  width: 1.5em;
+  height: 1.5em;
+  position: relative;
+  z-index: 5;
+}
+
+.navbar-toggler {
+  border: none;
+  outline: none;
+  background: transparent;
+  padding: 0.25rem 0.75rem;
+  position: relative;
+  z-index: 1001;
+}
+
+.navbar-toggler:focus {
+  box-shadow: none;
+  outline: none;
+}
+
+.navbar-toggler:hover .navbar-toggler-icon {
+  opacity: 0.8;
 }
 
 ul.navbar-nav.mx-auto.mb-2.mb-lg-0.nav-bar {
@@ -80,6 +106,8 @@ ul.navbar-nav.mx-auto.mb-2.mb-lg-0.nav-bar {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
+  z-index: 1000;
+  transition: width 0.3s ease;
 }
 
 
@@ -98,6 +126,7 @@ ul.navbar-nav.mx-auto.mb-2.mb-lg-0.nav-bar {
 @media (max-width: 768px) {
   .scope-logo{
     width: 30%;
+    flex-shrink: 0; /* Prevent the logo from shrinking */
   }
   .nav-link.active {
     background-color: transparent;
@@ -147,6 +176,17 @@ ul.navbar-nav.mx-auto.mb-2.mb-lg-0.nav-bar {
     display: block;
     width: 100%;
     text-align: center;
+  }
+  .navbar-toggler {
+    margin-left: auto; /* Push to right */
+    position: relative;
+    z-index: 1001;
+    min-width: 40px;
+    min-height: 40px;
+  }
+  .container-fluid.d-flex {
+    justify-content: space-between;
+    align-items: center;
   }
 }
 
@@ -262,5 +302,59 @@ ul.navbar-nav.mx-auto.mb-2.mb-lg-0.nav-bar {
   .joinus-btn:active {
     transform: scale(0.98); /* Give slight feedback when clicked */
     transition: transform 0.05s linear !important; /* Ultra-fast response */
+  }
+}
+
+/* Fixed navbar for mobile screens */
+@media screen and (max-width: 768px) {
+  .navbar {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0;
+    right: 0;
+    width: 100vw;
+    z-index: 1000;
+    transition: none !important;
+    transform: none !important;
+    animation: none !important;
+  }
+  
+  /* Add padding to body to prevent content from going under the navbar */
+  body {
+    padding-top: 56px; /* Adjust based on your navbar height */
+  }
+  
+  /* Ensure the menu button is always visible */
+  .navbar-toggler {
+    display: block !important;
+    opacity: 1 !important;
+    position: relative !important;
+    z-index: 1001 !important;
+    margin-left: auto; /* Push to right */
+    min-width: 40px;
+    min-height: 40px;
+  }
+  
+  /* Prevent logo from affecting other elements on hover */
+  .scope-logo:hover {
+    width: 30%; /* Keep same width on hover */
+  }
+  
+  /* Isolate hover effects */
+  .navbar-toggler:hover {
+    background-color: transparent;
+  }
+  
+  /* Make sure logo and toggler don't interfere with each other */
+  .container-fluid.d-flex {
+    gap: 10px;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* Make sure dropdown menus appear below the navbar */
+  .navbar-collapse {
+    max-height: calc(100vh - 56px);
+    overflow-y: auto;
   }
 }
