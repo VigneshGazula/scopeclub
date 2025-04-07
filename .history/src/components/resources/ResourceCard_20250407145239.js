@@ -7,25 +7,25 @@ function ResourceCard(props) {
   const getIconForType = (type) => {
     const iconMap = {
       "documentation": "https://cdn.simpleicons.org/readthedocs/white",
-      "ebook": "https://cdn.simpleicons.org/bookstack/white",
+      "ebook": "https://cdn.simpleicons.org/googlebooks/white",
       "tutorial": "https://cdn.simpleicons.org/udemy/white",
       "video": "https://cdn.simpleicons.org/youtube/white",
       "course": "https://cdn.simpleicons.org/coursera/white",
       "github": "https://cdn.simpleicons.org/github/white",
       "article": "https://cdn.simpleicons.org/medium/white",
-      "pdf": "https://cdn.simpleicons.org/googledrive/white",
+      "pdf": "https://cdn.simpleicons.org/adobeacrobatreader/white",
       "guide": "https://cdn.simpleicons.org/gitbook/white",
       "blog": "https://cdn.simpleicons.org/blogger/white",
       "interactive": "https://cdn.simpleicons.org/codepen/white",
-      "tool": "https://cdn.simpleicons.org/npm/white",
-      "gist": "https://cdn.simpleicons.org/github/white",
+      "tool": "https://cdn.simpleicons.org/visualstudiocode/white",
+      "gist": "https://cdn.simpleicons.org/githubgist/white",
       "example": "https://cdn.simpleicons.org/codepen/white",
-      "certification": "https://cdn.simpleicons.org/credly/white",
+      "certification": "https://cdn.simpleicons.org/acclaim/white",
       "forum": "https://cdn.simpleicons.org/discourse/white",
       "workshop": "https://cdn.simpleicons.org/pluralsight/white"
     };
     
-    return iconMap[type] || "https://cdn.simpleicons.org/book/white";
+    return iconMap[type] || "https://cdn.simpleicons.org/googledocs/white";
   };
   
   // Background colors for different resource cards

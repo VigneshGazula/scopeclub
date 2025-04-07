@@ -118,46 +118,12 @@ function Resources() {
             </button>
             
             {dropdownOpen && (
-              <div 
-                className="custom-dropdown-menu" 
-                role="listbox" 
-                aria-label="Technologies" 
-                tabIndex="0"
-                onKeyDown={(e) => {
-                  // Handle keyboard navigation
-                  if (e.key === 'Escape') {
-                    setDropdownOpen(false);
-                  } else if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
-                    e.preventDefault();
-                    const items = Array.from(e.currentTarget.children);
-                    const currentIndex = items.findIndex(item => 
-                      item.className.includes('active')
-                    );
-                    let nextIndex;
-                    
-                    if (e.key === 'ArrowDown') {
-                      nextIndex = currentIndex < items.length - 1 ? currentIndex + 1 : 0;
-                    } else {
-                      nextIndex = currentIndex > 0 ? currentIndex - 1 : items.length - 1;
-                    }
-                    
-                    if (items[nextIndex]) {
-                      selectOption(technologies[nextIndex].name);
-                      items[nextIndex].scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-                    }
-                  } else if (e.key === 'Enter') {
-                    setDropdownOpen(false);
-                  }
-                }}
-              >
+              <div className="custom-dropdown-menu">
                 {technologies.map((tech, index) => (
                   <div 
                     key={index} 
                     className={`custom-dropdown-item ${tech.name === selectedTechnology ? 'active' : ''}`}
                     onClick={() => selectOption(tech.name)}
-                    role="option"
-                    aria-selected={tech.name === selectedTechnology}
-                    tabIndex="-1"
                   >
                     {tech.name}
                   </div>

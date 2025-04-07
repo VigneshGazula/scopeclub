@@ -1,0 +1,1199 @@
+{
+  "technologies": [
+    {
+      "name": "Appdev",
+      "resources": [
+        {
+          "category": "Flutter",
+          "items": [
+            {
+              "title": "Cookbook",
+              "link": "https://flutter.dev/docs/cookbook",
+              "type": "documentation"
+            },
+            {
+              "title": "Flutter Succinctly, Syncfusion",
+              "link": "https://www.syncfusion.com/ebooks/flutter-succinctly",
+              "type": "ebook"
+            },
+            {
+              "title": "Flutter Tutorials Handbook",
+              "link": "https://kodestat.gitbook.io/flutter/",
+              "type": "tutorial"
+            },
+            {
+              "title": "Flutter Codelabs & Workshops",
+              "link": "https://flutter.dev/docs/codelabs",
+              "type": "tutorial"
+            },
+            {
+              "title": "Flutter Gallery",
+              "link": "https://gallery.flutter.dev/#/",
+              "type": "example"
+            },
+            {
+              "title": "Online IDE",
+              "link": "https://flutlab.io/",
+              "type": "tool"
+            },
+            {
+              "title": "Blog series",
+              "link": "https://verygood.ventures/blog",
+              "type": "blog"
+            },
+            {
+              "title": "Flutter Tutorial for Beginners",
+              "link": "https://youtu.be/pTJJsmejUOQ",
+              "type": "video"
+            },
+            {
+              "title": "Introduction to Animations",
+              "link": "https://flutter.dev/docs/development/ui/animations",
+              "type": "documentation"
+            }
+          ]
+        },
+        {
+          "category": "Android (Kotlin)",
+          "items": [
+            {
+              "title": "Kotlin Notes for Professionals book",
+              "link": "https://goalkicker.com/KotlinBook/",
+              "type": "ebook"
+            },
+            {
+              "title": "Kotlin Official Documentation",
+              "link": "https://kotlinlang.org/docs/reference/",
+              "type": "documentation"
+            },
+            {
+              "title": "MAD Skills Playlist",
+              "link": "https://www.youtube.com/playlist?list=PLWz5rJ2EKKc91i2QT8qfrfKgLNlJiG1z7",
+              "type": "video"
+            },
+            {
+              "title": "ComposeCookBook",
+              "link": "https://github.com/Gurupreet/ComposeCookBook",
+              "type": "github"
+            },
+            {
+              "title": "Compose Playground",
+              "link": "https://github.com/Vivecstel/Jetpack-Compose-Playground",
+              "type": "github"
+            }
+          ]
+        },
+        {
+          "category": "iOS (Swift)",
+          "items": [
+            {
+              "title": "Getting Started with Swift",
+              "link": "https://swift.org/getting-started/",
+              "type": "documentation"
+            },
+            {
+              "title": "Start Developing iOS Apps (Swift)",
+              "link": "https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/",
+              "type": "tutorial"
+            },
+            {
+              "title": "Getting started with SwiftUI",
+              "link": "https://www.hackingwithswift.com/books/ios-swiftui",
+              "type": "tutorial"
+            },
+            {
+              "title": "Udemy Course for iOS Dev",
+              "link": "https://www.udemy.com/course/ios-13-app-development-bootcamp/",
+              "type": "course"
+            },
+            {
+              "title": "SwiftUI Zero to Hero",
+              "link": "https://www.youtube.com/@SwiftfulThinking",
+              "type": "video"
+            },
+            {
+              "title": "WidgetKit Master Class",
+              "link": "https://youtu.be/E0iOm1_WkJk",
+              "type": "video"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "resources": [
+        {
+          "category": "General",
+          "items": [
+            {
+              "title": "Python For Everybody Specialization",
+              "link": "https://www.coursera.org/specializations/python",
+              "type": "course"
+            },
+            {
+              "title": "Road to Python- Starters Article",
+              "link": "https://medium.com/datadriveninvestor/road-to-python-in-5-easy-steps-5c207117cc4e",
+              "type": "article"
+            },
+            {
+              "title": "Automate the Boring Stuff",
+              "link": "http://automatetheboringstuff.com/chapter0/",
+              "type": "ebook"
+            },
+            {
+              "title": "Biopython",
+              "link": "http://biopython.org/DIST/docs/tutorial/Tutorial.pdf",
+              "type": "pdf"
+            },
+            {
+              "title": "Code Like a Pythonista: Idiomatic Python",
+              "link": "http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html",
+              "type": "tutorial"
+            },
+            {
+              "title": "Official Python Documentation",
+              "link": "https://www.python.org/doc/",
+              "type": "documentation"
+            },
+            {
+              "title": "Data Structures and Algorithms in Python",
+              "link": "https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html",
+              "type": "tutorial"
+            },
+            {
+              "title": "Dive into Python 3",
+              "link": "https://diveintopython3.problemsolving.io",
+              "type": "ebook"
+            },
+            {
+              "title": "Fundamentals of Python Programming",
+              "link": "http://python.cs.southern.edu/pythonbook/pythonbook.pdf",
+              "type": "pdf"
+            },
+            {
+              "title": "Google's Python Style Guide",
+              "link": "https://google.github.io/styleguide/pyguide.html",
+              "type": "guide"
+            },
+            {
+              "title": "Hacking Secret Cyphers with Python",
+              "link": "http://inventwithpython.com/hacking/chapters/",
+              "type": "tutorial"
+            },
+            {
+              "title": "Hadoop with Python",
+              "link": "http://www.oreilly.com/programming/free/hadoop-with-python.csp",
+              "type": "ebook"
+            },
+            {
+              "title": "How to Make Mistakes in Python",
+              "link": "http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf",
+              "type": "pdf"
+            },
+            {
+              "title": "Invent Your Own Computer Games With Python",
+              "link": "http://inventwithpython.com/chapters/",
+              "type": "tutorial"
+            },
+            {
+              "title": "Problem Solving with Algorithms and Data Structures using Python",
+              "link": "http://interactivepython.org/runestone/static/pythonds/index.html",
+              "type": "tutorial"
+            },
+            {
+              "title": "Program Arcade Games With Python And Pygame",
+              "link": "http://programarcadegames.com",
+              "type": "tutorial"
+            },
+            {
+              "title": "Programming Computer Vision with Python",
+              "link": "http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf",
+              "type": "pdf"
+            },
+            {
+              "title": "Python Data Science Handbook",
+              "link": "https://github.com/jakevdp/PythonDataScienceHandbook",
+              "type": "github"
+            },
+            {
+              "title": "Python for Everybody Exploring Data Using Python 3",
+              "link": "http://py4e.com/book.php",
+              "type": "ebook"
+            },
+            {
+              "title": "The Little Book of Python Anti-Patterns",
+              "link": "http://docs.quantifiedcode.com/python-anti-patterns/",
+              "type": "ebook"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frontend",
+      "resources": [
+        {
+          "category": "HTML / CSS",
+          "items": [
+            {
+              "title": "A beginner's guide to HTML&CSS",
+              "link": "http://learn.shayhowe.com/html-css/",
+              "type": "tutorial"
+            },
+            {
+              "title": "An advanced guide to HTML&CSS",
+              "link": "http://learn.shayhowe.com/advanced-html-css/",
+              "type": "tutorial"
+            },
+            {
+              "title": "Canvassing",
+              "link": "http://learnjs.io/canvassing/read",
+              "type": "tutorial"
+            },
+            {
+              "title": "Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS",
+              "link": "http://mdo.github.io/code-guide/",
+              "type": "guide"
+            },
+            {
+              "title": "CSS Animation 101",
+              "link": "https://github.com/cssanimation/css-animation-101",
+              "type": "github"
+            }
+          ]
+        },
+        {
+          "category": "ReactJS",
+          "items": [
+            {
+              "title": "Learn React",
+              "link": "https://scrimba.com/learn/learnreact",
+              "type": "course"
+            },
+            {
+              "title": "React tutorial for beginners",
+              "link": "https://www.youtube.com/watch?v=Ke90Tje7VS0",
+              "type": "video"
+            },
+            {
+              "title": "React router",
+              "link": "https://www.youtube.com/watch?v=Law7wfdg_ls",
+              "type": "video"
+            },
+            {
+              "title": "React Redux Tutorials by Codevolution",
+              "link": "https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK",
+              "type": "video"
+            }
+          ]
+        },
+        {
+          "category": "VueJS",
+          "items": [
+            {
+              "title": "Vue JS Crash course",
+              "link": "https://www.youtube.com/watch?v=Wy9q22isx3U",
+              "type": "video"
+            },
+            {
+              "title": "Vue - The Complete Guide",
+              "link": "https://www.udemy.com/course/vuejs-2-the-complete-guide/",
+              "type": "course"
+            },
+            {
+              "title": "Vue3 Documentation",
+              "link": "https://v3.vuejs.org/guide/introduction.html",
+              "type": "documentation"
+            },
+            {
+              "title": "Vuex Documentation",
+              "link": "https://vuex.vuejs.org/",
+              "type": "documentation"
+            },
+            {
+              "title": "FullStackOpen",
+              "link": "https://fullstackopen.com/en/",
+              "type": "course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Backend",
+      "resources": [
+        {
+          "category": "Django",
+          "items": [
+            {
+              "title": "Django 8 Hours Course",
+              "link": "https://www.youtube.com/watch?v=JT80XhYJdBw",
+              "type": "video"
+            },
+            {
+              "title": "Django Official Documentation",
+              "link": "https://docs.djangoproject.com/en/3.0/",
+              "type": "documentation"
+            },
+            {
+              "title": "Djen of Django",
+              "link": "http://agiliq.com/books/djenofdjango/",
+              "type": "ebook"
+            },
+            {
+              "title": "Youtube series",
+              "link": "https://www.youtube.com/playlist?list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3",
+              "type": "video"
+            },
+            {
+              "title": "Beginners guide to Django",
+              "link": "https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html",
+              "type": "tutorial"
+            },
+            {
+              "title": "Making Blog API with Django",
+              "link": "https://www.youtube.com/playlist?list=PLEsfXFp6DpzTOcOVdZF-th7BS_GYGguAS",
+              "type": "video"
+            }
+          ]
+        },
+        {
+          "category": "Flask",
+          "items": [
+            {
+              "title": "Explore Flask",
+              "link": "https://exploreflask.com",
+              "type": "tutorial"
+            },
+            {
+              "title": "The Flask Mega-Tutorial",
+              "link": "http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world",
+              "type": "tutorial"
+            },
+            {
+              "title": "Important Tips in Flask",
+              "link": "https://gist.github.com/1UC1F3R616/33c3d44536ff75ee2ad5974890b0f61e",
+              "type": "gist"
+            },
+            {
+              "title": "SocketIO in Flask",
+              "link": "https://gist.github.com/1UC1F3R616/78d5348b0d32586023f53c7b904d6a05",
+              "type": "gist"
+            },
+            {
+              "title": "Flask Cheat-Sheet",
+              "link": "https://github.com/1UC1F3R616/Flask-and-DB-Projects/files/4403125/flask_cheatsheet.pdf",
+              "type": "pdf"
+            }
+          ]
+        },
+        {
+          "category": "Node JS",
+          "items": [
+            {
+              "title": "Node.js Video Tutorials- Beginner Level",
+              "link": "https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
+              "type": "video"
+            },
+            {
+              "title": "Node.js Video Tutorials- Intermediate Level",
+              "link": "http://nodetuts.com/index.html",
+              "type": "video"
+            },
+            {
+              "title": "Node.js Video Tutorials- Beginner to Intermediate",
+              "link": "https://www.youtube.com/watch?v=65a5QQ3ZR2g&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR",
+              "type": "video"
+            },
+            {
+              "title": "Node.js course",
+              "link": "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/",
+              "type": "course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML",
+      "resources": [
+        {
+          "category": "Data Cleaning & Mining",
+          "items": [
+            {
+              "title": "A Brief Introduction to Machine Learning for Engineers",
+              "link": "https://drive.google.com/file/d/14y6IPpgYUC54ugTsKK4e4oUupXuvA38w/view?usp=sharing",
+              "type": "pdf"
+            },
+            {
+              "title": "Data Mining - The Textbook",
+              "link": "https://drive.google.com/file/d/1Skr308Tfh-v9OFsQ_61GUl5kSUZdtOVV/view?usp=sharing",
+              "type": "pdf"
+            }
+          ]
+        },
+        {
+          "category": "Machine Learning",
+          "items": [
+            {
+              "title": "A Brief Introduction to Machine Learning for Engineers",
+              "link": "https://arxiv.org/pdf/1709.02840.pdf",
+              "type": "pdf"
+            },
+            {
+              "title": "A Brief Introduction to Neural Networks",
+              "link": "http://www.dkriesel.com/en/science/neural_networks",
+              "type": "tutorial"
+            },
+            {
+              "title": "A Course in Machine Learning",
+              "link": "http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf",
+              "type": "pdf"
+            },
+            {
+              "title": "A First Encounter with Machine Learning",
+              "link": "https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf",
+              "type": "pdf"
+            },
+            {
+              "title": "An Introduction to Statistical Learning",
+              "link": "http://www-bcf.usc.edu/~gareth/ISL/",
+              "type": "ebook"
+            },
+            {
+              "title": "Deep Learning",
+              "link": "http://www.deeplearningbook.org",
+              "type": "ebook"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Git",
+      "resources": [
+        {
+          "category": "General",
+          "items": [
+            {
+              "title": "Complete Documentation",
+              "link": "https://git-scm.com/book/en/v2",
+              "type": "documentation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DevOps",
+      "resources": [
+        {
+          "category": "Getting Started",
+          "items": [
+            {
+              "title": "DevOps Roadmap",
+              "link": "https://roadmap.sh/devops",
+              "type": "guide"
+            },
+            {
+              "title": "Learn bash scripting",
+              "link": "https://www.codecademy.com/learn/learn-the-command-line/modules/bash-scripting",
+              "type": "tutorial"
+            },
+            {
+              "title": "Advanced Bash616",
+              "link": "http://tldp.org/LDP/abs/html/index.html",
+              "type": "documentation"
+            }
+          ]
+        },
+        {
+          "category": "Containerization",
+          "items": [
+            {
+              "title": "All docker resources",
+              "link": "https://github.com/collabnix/dockerlabs/blob/master/beginners/README.md",
+              "type": "github"
+            },
+            {
+              "title": "Play with docker",
+              "link": "https://labs.play-with-docker.com/",
+              "type": "interactive"
+            }
+          ]
+        },
+        {
+          "category": "Orchestration",
+          "items": [
+            {
+              "title": "Docker swarm for beginners",
+              "link": "https://docs.docker.com/engine/swarm/swarm-tutorial/",
+              "type": "tutorial"
+            },
+            {
+              "title": "Kubernetes for beginners",
+              "link": "https://github.com/collabnix/dockerlabs/blob/master/kubernetes/README.md",
+              "type": "github"
+            },
+            {
+              "title": "Kubernetes workshop",
+              "link": "https://github.com/collabnix/dockerlabs/blob/master/kubernetes/workshop/README.md",
+              "type": "workshop"
+            }
+          ]
+        },
+        {
+          "category": "CI/CD",
+          "items": [
+            {
+              "title": "Jenkins guided tour",
+              "link": "https://jenkins.io/doc/tutorials/",
+              "type": "tutorial"
+            },
+            {
+              "title": "Travis CI",
+              "link": "https://docs.travis-ci.com/user/tutorial/",
+              "type": "tutorial"
+            },
+            {
+              "title": "GitHub actions",
+              "link": "https://help.github.com/en/actions/automating-your-workflow-with-github-actions",
+              "type": "documentation"
+            }
+          ]
+        },
+        {
+          "category": "Log Aggregration And Monitoring",
+          "items": [
+            {
+              "title": "ELK stack documentation",
+              "link": "https://www.elastic.co/guide/index.html",
+              "type": "documentation"
+            },
+            {
+              "title": "Fluentd logging layer",
+              "link": "https://docs.fluentd.org/",
+              "type": "documentation"
+            },
+            {
+              "title": "Grafana dashboards",
+              "link": "https://grafana.com/docs/grafana/latest/",
+              "type": "documentation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Javascript",
+      "resources": [
+        {
+          "category": "General",
+          "items": [
+            {
+              "title": "Beginners Javascript Crash Course",
+              "link": "https://youtu.be/PkZNo7MFNFg",
+              "type": "video"
+            },
+            {
+              "title": "Building a REST API in Node.js",
+              "link": "https://www.youtube.com/watch?v=vjf774RKrLc&t=2049s",
+              "type": "video"
+            },
+            {
+              "title": "Beginners Javascript Full Course",
+              "link": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET",
+              "type": "video"
+            },
+            {
+              "title": "Frontend Javascript Documentation",
+              "link": "https://www.w3schools.com/js/",
+              "type": "documentation"
+            },
+            {
+              "title": "Node.js Documentation",
+              "link": "https://nodejs.org/docs/latest-v12.x/api/",
+              "type": "documentation"
+            },
+            {
+              "title": "Google Javascript Style Guide",
+              "link": "https://google.github.io/styleguide/jsguide.html",
+              "type": "guide"
+            },
+            {
+              "title": "React.js Documentation",
+              "link": "https://reactjs.org/docs/getting-started.html",
+              "type": "documentation"
+            },
+            {
+              "title": "Angular.js Documentation",
+              "link": "https://docs.angularjs.org/guide",
+              "type": "documentation"
+            },
+            {
+              "title": "React.js Course",
+              "link": "https://www.youtube.com/watch?v=DLX62G4lc44",
+              "type": "video"
+            },
+            {
+              "title": "Angular.js Course",
+              "link": "https://www.youtube.com/watch?v=2OHbjep_WjQ",
+              "type": "video"
+            },
+            {
+              "title": "Node.js Full Course(paid)",
+              "link": "https://www.udemy.com/share/101WGiBkocdVxUR34=/",
+              "type": "course"
+            },
+            {
+              "title": "Project Oriented Javascript Course(paid)",
+              "link": "https://www.udemy.com/course/javascript-tutorial-for-beginners-w/",
+              "type": "course"
+            },
+            {
+              "title": "Visual Studio Code Javascript Documentation",
+              "link": "https://code.visualstudio.com/docs/languages/javascript",
+              "type": "documentation"
+            },
+            {
+              "title": "Mozilla Developers Network Javascript Documentation",
+              "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+              "type": "documentation"
+            },
+            {
+              "title": "Eloquent Javascript",
+              "link": "https://eloquentjavascript.net/",
+              "type": "ebook"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Java",
+      "resources": [
+        {
+          "category": "General",
+          "items": [
+            {
+              "title": "Java in 8 Hours",
+              "link": "https://github.com/1UC1F3R616/Flask-and-DB-Projects/files/4403209/java.in.8.hours.pdf",
+              "type": "pdf"
+            },
+            {
+              "title": "Java in 21 Days",
+              "link": "https://github.com/1UC1F3R616/Flask-and-DB-Projects/files/4403212/Teach.Yourself.Java.in.21.Days.-.Professional.Reference.Edition.Sams.Teach.Yourself.pdf",
+              "type": "pdf"
+            },
+            {
+              "title": "DS in Java",
+              "link": "https://github.com/1UC1F3R616/Flask-and-DB-Projects/files/4403210/Java.Data.Structures.pdf",
+              "type": "pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IoT",
+      "resources": [
+        {
+          "category": "General",
+          "items": [
+            {
+              "title": "IoT Full Course - Learn IoT in 4 Hours",
+              "link": "https://www.youtube.com/watch?v=h0gWfVCSGQQ",
+              "type": "video"
+            },
+            {
+              "title": "Internet of Things guide by Turtorials Point",
+              "link": "https://www.tutorialspoint.com/internet_of_things/internet_of_things_tutorial.pdf",
+              "type": "pdf"
+            },
+            {
+              "title": "Awesome IoT Projects",
+              "link": "https://github.com/phodal/awesome-iot-projects",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "resources": [
+        {
+          "category": "General",
+          "items": [
+            {
+              "title": "SQL Course For Beginners",
+              "link": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+              "type": "video"
+            },
+            {
+              "title": "PostgreSQL Course For Beginners",
+              "link": "https://www.youtube.com/watch?v=qw--VYLpxG4",
+              "type": "video"
+            },
+            {
+              "title": "Build Node.js App with Postgres and Sequelize",
+              "link": "https://www.youtube.com/playlist?list=PLbZ6yn8dyClCUGeqqoYZgSbhioFsg8w_f",
+              "type": "video"
+            },
+            {
+              "title": "REST API with Node.js and Postgres",
+              "link": "https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8/",
+              "type": "article"
+            },
+            {
+              "title": "PostgreSQL Documentation",
+              "link": "https://www.postgresql.org/docs/12/index.html",
+              "type": "documentation"
+            },
+            {
+              "title": "MySQL Documentation",
+              "link": "https://dev.mysql.com/doc/",
+              "type": "documentation"
+            },
+            {
+              "title": "Node.js, PostgreSQL and Sequelize.js CRUD",
+              "link": "https://bezkoder.com/node-express-sequelize-postgresql/",
+              "type": "tutorial"
+            },
+            {
+              "title": "Node.js, PostgreSQL, Sequelize.js and Express.js REST API",
+              "link": "https://www.djamware.com/post/5b56a6cc80aca707dd4f65a9/nodejs-expressjs-sequelizejs-and-postgresql-restful-api",
+              "type": "tutorial"
+            },
+            {
+              "title": "Codecademy Learn SQL",
+              "link": "https://www.codecademy.com/learn/learn-sql",
+              "type": "course"
+            },
+            {
+              "title": "SQLZoo Website",
+              "link": "https://sqlzoo.net/",
+              "type": "interactive"
+            },
+            {
+              "title": "Tutorialspoint SQL Documentation",
+              "link": "https://www.tutorialspoint.com/sql/",
+              "type": "documentation"
+            },
+            {
+              "title": "Oracle SQL Documentation",
+              "link": "https://docs.oracle.com/cd/E17781_01/admin.112/e18585.pdf",
+              "type": "pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Security",
+      "resources": [
+        {
+          "category": "Cryptography",
+          "items": [
+            {
+              "title": "A Graduate Course in Applied Cryptography",
+              "link": "http://toc.cryptobook.us",
+              "type": "ebook"
+            },
+            {
+              "title": "Crypto 101 - Crypto for everyone",
+              "link": "https://www.crypto101.io",
+              "type": "ebook"
+            },
+            {
+              "title": "CryptoParty Handbook",
+              "link": "https://unglue.it/work/141611/",
+              "type": "ebook"
+            },
+            {
+              "title": "Handbook of Applied Cryptography",
+              "link": "http://cacr.uwaterloo.ca/hac/index.html",
+              "type": "ebook"
+            }
+          ]
+        },
+        {
+          "category": "Security Tools & Guides",
+          "items": [
+            {
+              "title": "How to deal with Passwords",
+              "link": "https://github.com/MHM5000/pass",
+              "type": "github"
+            },
+            {
+              "title": "Intrusion Detection Systems with Snort",
+              "link": "http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf",
+              "type": "pdf"
+            },
+            {
+              "title": "OpenSSL Cookbook",
+              "link": "https://www.feistyduck.com/library/openssl-cookbook/",
+              "type": "ebook"
+            },
+            {
+              "title": "OWASP Testing Guide 4.2",
+              "link": "https://github.com/OWASP/wstg/releases/download/v4.1/wstg-v4.1.pdf",
+              "type": "pdf"
+            },
+            {
+              "title": "OWASP Top 10 for .NET Developers",
+              "link": "http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html",
+              "type": "ebook"
+            },
+            {
+              "title": "Security Engineering",
+              "link": "http://www.cl.cam.ac.uk/~rja14/book.html",
+              "type": "ebook"
+            },
+            {
+              "title": "Computer and Information Security Handbook",
+              "link": "https://drive.google.com/file/d/1abOjUYqSfQ1N4oNTeLRxURINO-wVfGHv/view",
+              "type": "pdf"
+            }
+          ]
+        },
+        {
+          "category": "Reverse Engineering",
+          "items": [
+            {
+              "title": "BIOS Disassembly Ninjutsu Uncovered 1st Edition",
+              "link": "http://bioshacking.blogspot.co.uk/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html",
+              "type": "blog"
+            },
+            {
+              "title": "Hacking the Xbox: An Introduction to Reverse Engineering",
+              "link": "https://www.nostarch.com/xboxfree/",
+              "type": "ebook"
+            },
+            {
+              "title": "iOS App Reverse Engineering",
+              "link": "https://github.com/iosre/iOSAppReverseEngineering",
+              "type": "github"
+            },
+            {
+              "title": "Reverse Engineering for Beginners",
+              "link": "http://beginners.re",
+              "type": "ebook"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "OSDev",
+      "resources": [
+        {
+          "category": "General",
+          "items": [
+            {
+              "title": "Making an Operating System with C and assembly",
+              "link": "https://github.com/cfenollosa/os-tutorial",
+              "type": "github"
+            },
+            {
+              "title": "Making an Operating System with Rust",
+              "link": "https://os.phil-opp.com/",
+              "type": "tutorial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Deep-Learning",
+      "resources": [
+        {
+          "category": "Machine Learning",
+          "items": [
+            {
+              "title": "Machine Learning Free Course",
+              "link": "https://www.coursera.org/learn/machine-learning",
+              "type": "course"
+            },
+            {
+              "title": "Scikit-Learn Documentation",
+              "link": "https://scikit-learn.org/stable/",
+              "type": "documentation"
+            },
+            {
+              "title": "Machine Learning A-Z course",
+              "link": "https://www.udemy.com/course/machinelearning/",
+              "type": "course"
+            }
+          ]
+        },
+        {
+          "category": "Deep Learning",
+          "items": [
+            {
+              "title": "Deep Learning Specialization",
+              "link": "https://www.coursera.org/specializations/deep-learning",
+              "type": "course"
+            },
+            {
+              "title": "Deep Learning with Tensorflow and Keras",
+              "link": "https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN",
+              "type": "video"
+            },
+            {
+              "title": "Data Analysis(Important)",
+              "link": "https://www.youtube.com/watch?v=B42n3Pc-N2A",
+              "type": "video"
+            },
+            {
+              "title": "Introduction To Deep Learning, MIT",
+              "link": "https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI",
+              "type": "video"
+            },
+            {
+              "title": "Deep Learning With PyTorch, PyTorch Tutorials",
+              "link": "https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG",
+              "type": "video"
+            },
+            {
+              "title": "CS231 Winter 2016 : CNN For Visual Recognition, Stanford",
+              "link": "https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC",
+              "type": "video"
+            },
+            {
+              "title": "CS224n Natural Language Processing With Deep Learning, Stanford",
+              "link": "https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z",
+              "type": "video"
+            },
+            {
+              "title": "Tensorflow Documentation",
+              "link": "https://www.tensorflow.org/guide",
+              "type": "documentation"
+            },
+            {
+              "title": "PyTorch Documentation",
+              "link": "https://pytorch.org/docs/stable/index.html",
+              "type": "documentation"
+            },
+            {
+              "title": "Keras Documentation",
+              "link": "https://keras.io/",
+              "type": "documentation"
+            },
+            {
+              "title": "Deep Learning MIT",
+              "link": "https://drive.google.com/file/d/1MoVa-cfVCW5JNgdSGR_5gnF2drsL76qx/view?usp=sharing",
+              "type": "pdf"
+            },
+            {
+              "title": "Deep Learning with Python",
+              "link": "https://drive.google.com/file/d/1kiKY_pKefUijvJCv1ruERquqmsxx6uzY/view?usp=sharing",
+              "type": "pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Digital-Marketing",
+      "resources": [
+        {
+          "category": "Courses by Google",
+          "items": [
+            {
+              "title": "Fundamentals of Digital Marketing - Google Digital Garage",
+              "link": "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing",
+              "type": "course"
+            },
+            {
+              "title": "Skillshop",
+              "link": "https://skillshop.exceedlms.com/student/catalog/browse",
+              "type": "course"
+            },
+            {
+              "title": "Google Ads Search Certification",
+              "link": "https://skillshop.exceedlms.com/student/path/18128-google-ads-search-certification",
+              "type": "certification"
+            },
+            {
+              "title": "Campaign Manager Certification Exam",
+              "link": "https://skillshop.exceedlms.com/student/path/8638-campaign-manager-certification-exam",
+              "type": "certification"
+            },
+            {
+              "title": "Google Analytics Individual Qualification",
+              "link": "https://skillshop.exceedlms.com/student/path/2938-google-analytics-individual-qualification",
+              "type": "certification"
+            }
+          ]
+        },
+        {
+          "category": "Courses on Coursera",
+          "items": [
+            {
+              "title": "Digital Marketing - Part of the Master of Business Administration (iMBA)",
+              "link": "https://www.coursera.org/specializations/digital-marketing",
+              "type": "course"
+            }
+          ]
+        },
+        {
+          "category": "Blog",
+          "items": [
+            {
+              "title": "The Art of Digital Marketing",
+              "link": "https://medium.com/gdg-vit/the-art-of-digital-marketing-d4681e23010c",
+              "type": "blog"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Design",
+      "resources": [
+        {
+          "category": "UI/UX",
+          "items": [
+            {
+              "title": "Learn Design (YouTube Playlist)",
+              "link": "https://www.youtube.com/watch?v=WZQYt5HZ0-E&list=PLDtHAiqIa4wa5MBbE_XDoqY51sAkQnkjt",
+              "type": "video"
+            },
+            {
+              "title": "Material.io Guidelines",
+              "link": "https://material.io/design/guidelines-overview",
+              "type": "guide"
+            },
+            {
+              "title": "Apple Human Interface Guidelines",
+              "link": "https://developer.apple.com/design/human-interface-guidelines/",
+              "type": "guide"
+            },
+            {
+              "title": "Material Baseline Design Kit",
+              "link": "https://www.figma.com/community/file/778763161265841481",
+              "type": "tool"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blockchain",
+      "resources": [
+        {
+          "category": "Ethereum",
+          "items": [
+            {
+              "title": "Official ethereum developer docs",
+              "link": "https://ethereum.org/developers/#developer-tools",
+              "type": "documentation"
+            },
+            {
+              "title": "Smart contracts tutorial",
+              "link": "https://www.youtube.com/watch?v=JD120_jN4ZU&list=PL9ooVrP1hQOHzIRXHJhEOd-1BuhP_EEAw",
+              "type": "video"
+            },
+            {
+              "title": "TruffleJS docs",
+              "link": "https://www.trufflesuite.com/docs/truffle/reference/configuration",
+              "type": "documentation"
+            },
+            {
+              "title": "Developing Ethereum Dapps with Truffle, Ganache, and Metamask",
+              "link": "https://medium.com/coinmonks/developing-ethereum-dapps-with-truffle-ganache-and-metamask-31bc5023ce91",
+              "type": "tutorial"
+            }
+          ]
+        },
+        {
+          "category": "Hyperledger",
+          "items": [
+            {
+              "title": "Hyperledger Fabric",
+              "link": "https://www.hyperledger.org/projects/fabric",
+              "type": "documentation"
+            },
+            {
+              "title": "Fabric tutorial series",
+              "link": "https://www.youtube.com/watch?v=MPNkUqOKhVE&list=PLjsqymUqgpSTGC4L6ULHCB_Mqmy43OcIh",
+              "type": "video"
+            },
+            {
+              "title": "Hyperledger Sawtooth",
+              "link": "https://www.hyperledger.org/projects/sawtooth",
+              "type": "documentation"
+            },
+            {
+              "title": "Hyperledger Sawtooth supply chain example",
+              "link": "https://github.com/hyperledger/sawtooth-supply-chain",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Data-Structures-and-Algorithms",
+      "resources": [
+        {
+          "category": "General",
+          "items": [
+            {
+              "title": "Learn DS & Algorithms by Programiz",
+              "link": "https://www.programiz.com/dsa",
+              "type": "tutorial"
+            },
+            {
+              "title": "Learning Data Structures and Algorithms Udemy Course",
+              "link": "https://www.udemy.com/course/learning-data-structures-and-algorithms/",
+              "type": "course"
+            },
+            {
+              "title": "Algorithm Analysis",
+              "link": "https://drive.google.com/file/d/0B-W-TWxgtybGd3dFUzg1OHNsM2M/view",
+              "type": "pdf"
+            },
+            {
+              "title": "Big O Notation Basics",
+              "link": "https://www.youtube.com/watch?v=__vX2sjlpXU",
+              "type": "video"
+            },
+            {
+              "title": "Codechef Discussion about Complexity",
+              "link": "https://discuss.codechef.com/t/multiple-choice-questions-related-to-testing-knowledge-about-time-and-space-complexity-of-a-program/17976",
+              "type": "forum"
+            },
+            {
+              "title": "Geeks For Geeks Data Structures",
+              "link": "https://www.geeksforgeeks.org/data-structures/",
+              "type": "tutorial"
+            },
+            {
+              "title": "Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer",
+              "link": "https://www.youtube.com/watch?v=RBSGKlAvoiM",
+              "type": "video"
+            },
+            {
+              "title": "NPTEL Course On Data Structures and Algorithms",
+              "link": "https://nptel.ac.in/courses/106/106/106106145/",
+              "type": "course"
+            },
+            {
+              "title": "Mastering Data Structures with C++",
+              "link": "https://www.udemy.com/course/datastructurescncpp/",
+              "type": "course"
+            },
+            {
+              "title": "Algorithm Specialization By Stanford",
+              "link": "https://www.coursera.org/specializations/algorithms?",
+              "type": "course"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+} 

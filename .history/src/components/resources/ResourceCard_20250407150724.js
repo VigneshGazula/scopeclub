@@ -7,13 +7,13 @@ function ResourceCard(props) {
   const getIconForType = (type) => {
     const iconMap = {
       "documentation": "https://cdn.simpleicons.org/readthedocs/white",
-      "ebook": "https://cdn.simpleicons.org/bookstack/white",
+      "ebook": "https://cdn.simpleicons.org/amazonkindle/white",
       "tutorial": "https://cdn.simpleicons.org/udemy/white",
       "video": "https://cdn.simpleicons.org/youtube/white",
       "course": "https://cdn.simpleicons.org/coursera/white",
       "github": "https://cdn.simpleicons.org/github/white",
       "article": "https://cdn.simpleicons.org/medium/white",
-      "pdf": "https://cdn.simpleicons.org/googledrive/white",
+      "pdf": "https://cdn.simpleicons.org/adobeacrobat/white",
       "guide": "https://cdn.simpleicons.org/gitbook/white",
       "blog": "https://cdn.simpleicons.org/blogger/white",
       "interactive": "https://cdn.simpleicons.org/codepen/white",

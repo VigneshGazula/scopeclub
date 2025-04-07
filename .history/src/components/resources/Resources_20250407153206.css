@@ -263,7 +263,6 @@
 
 .custom-dropdown-item:last-child {
   border-bottom: none;
-  margin-bottom: 5px;
 }
 
 .custom-dropdown-item:hover {
@@ -277,7 +276,7 @@
   border-left: 3px solid #36be00;
 }
 
-/* Add a gradient indicator at the bottom of the dropdown menu */
+/* Add a subtle gradient at the bottom of the dropdown to indicate more content */
 .custom-dropdown-menu::after {
   content: '';
   position: absolute;
@@ -290,7 +289,7 @@
   opacity: 0.8;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
-  z-index: 5;
+  z-index: 2;
 }
 
 .resources-contents-container{
@@ -348,16 +347,6 @@
   
   .resources-content {
     width: 95%;
-  }
-  
-  /* Mobile dropdown improvements */
-  .custom-dropdown-menu {
-    max-height: 250px; /* Shorter on mobile for better UX */
-    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
-  }
-  
-  .custom-dropdown-item {
-    padding: 15px 20px; /* Larger touch targets */
   }
 }
 

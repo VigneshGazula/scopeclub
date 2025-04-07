@@ -349,16 +349,6 @@
   .resources-content {
     width: 95%;
   }
-  
-  /* Mobile dropdown improvements */
-  .custom-dropdown-menu {
-    max-height: 250px; /* Shorter on mobile for better UX */
-    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
-  }
-  
-  .custom-dropdown-item {
-    padding: 15px 20px; /* Larger touch targets */
-  }
 }
 
 /* Ultra Premium Custom Dropdown */

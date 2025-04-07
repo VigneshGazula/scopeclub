@@ -263,7 +263,6 @@
 
 .custom-dropdown-item:last-child {
   border-bottom: none;
-  margin-bottom: 5px;
 }
 
 .custom-dropdown-item:hover {
@@ -277,7 +276,7 @@
   border-left: 3px solid #36be00;
 }
 
-/* Add a gradient indicator at the bottom of the dropdown menu */
+/* Add a subtle gradient at the bottom of the dropdown to indicate more content */
 .custom-dropdown-menu::after {
   content: '';
   position: absolute;
@@ -290,7 +289,7 @@
   opacity: 0.8;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
-  z-index: 5;
+  z-index: 2;
 }
 
 .resources-contents-container{
@@ -348,16 +347,6 @@
   
   .resources-content {
     width: 95%;
-  }
-  
-  /* Mobile dropdown improvements */
-  .custom-dropdown-menu {
-    max-height: 250px; /* Shorter on mobile for better UX */
-    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
-  }
-  
-  .custom-dropdown-item {
-    padding: 15px 20px; /* Larger touch targets */
   }
 }
 
@@ -685,33 +674,9 @@
   background: rgba(15, 15, 15, 0.98);
   border: 1px solid #36be00;
   border-radius: 8px;
-  overflow-y: auto;
+  overflow: hidden;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
   z-index: 1000;
-  max-height: 350px;
-  overflow-y: scroll;
-  scrollbar-width: thin;
-  scrollbar-color: rgba(54, 190, 0, 0.5) rgba(255, 255, 255, 0.05);
-}
-
-.custom-dropdown-menu::-webkit-scrollbar {
-  width: 10px;
-  display: block;
-}
-
-.custom-dropdown-menu::-webkit-scrollbar-track {
-  background: rgba(255, 255, 255, 0.05);
-  border-radius: 10px;
-}
-
-.custom-dropdown-menu::-webkit-scrollbar-thumb {
-  background: rgba(54, 190, 0, 0.5);
-  border-radius: 10px;
-  border: 2px solid rgba(15, 15, 15, 0.5);
-}
-
-.custom-dropdown-menu::-webkit-scrollbar-thumb:hover {
-  background: rgba(54, 190, 0, 0.8);
 }
 
 /* Dropdown items */

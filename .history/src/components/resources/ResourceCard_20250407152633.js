@@ -13,7 +13,7 @@ function ResourceCard(props) {
       "course": "https://cdn.simpleicons.org/coursera/white",
       "github": "https://cdn.simpleicons.org/github/white",
       "article": "https://cdn.simpleicons.org/medium/white",
-      "pdf": "https://cdn.simpleicons.org/googledrive/white",
+      "pdf": "https://cdn.simpleicons.org/adobe/white",
       "guide": "https://cdn.simpleicons.org/gitbook/white",
       "blog": "https://cdn.simpleicons.org/blogger/white",
       "interactive": "https://cdn.simpleicons.org/codepen/white",

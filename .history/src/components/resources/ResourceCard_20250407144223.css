@@ -13,12 +13,14 @@
   transition: 0.6s 0.15s cubic-bezier(0.17, 0.67, 0.5, 1.03);
 }
 
-.ResourceCard .thumb .rs-image-logo {
-  height: 80px;
-  width: 80px;
-  object-fit: contain;
+.ResourceCard .thumb .rs-image {
+  height: 100px;
+  width: 100px;
+  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
   margin-bottom: 30px;
-  filter: brightness(1.2);
 }
 
 .ResourceCard .thumb .rs-inner-title {
@@ -26,7 +28,6 @@
   font-size: 1.2rem;
   text-align: center;
   margin-bottom: 15px;
-  padding: 0 15px;
 }
 
 .ResourceCard .thumb {
@@ -36,8 +37,8 @@
   align-items: center;
   justify-content: center;
   height: 400px;
-  background-size: cover;
-  background-position: center;
+  background-size:cover;
+  background-position:  center;
   border-radius: 3px;
   background-color: #080808;
   position: relative;
@@ -46,16 +47,13 @@
 .rs-type-tag {
   background-color: #33D90B;
   color: black;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   padding: 4px 12px;
   border-radius: 15px;
   font-family: turnkey-light;
   text-transform: uppercase;
   font-weight: bold;
   letter-spacing: 0.5px;
-  display: inline-block;
-  min-width: 40px;
-  text-align: center;
 }
 
 .ResourceCard .infos {
@@ -69,11 +67,9 @@
   transition: 0.6s 0.15s cubic-bezier(0.17, 0.67, 0.5, 1.03);
   padding: 30px 30px;
 }
-
 .ResourceCard .title {
   padding-right: 40px;
 }
-
 .ResourceCard .infos .title {
   position: relative;
   margin: 7px 0;
@@ -83,13 +79,13 @@
   text-shadow: 0 0 0px #32577f;
   font-family: turnkey-medium;
 }
-
 .ResourceCard .infos .time {
   position: absolute;
   top: 50%;
   right: 0;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
+  /* width: 35px; */
   text-transform: none;
   height: 23px;
   font-size: 0.9em;
@@ -97,13 +93,11 @@
   background-size: 100% auto;
   display: inline-block;
 }
-
 .ResourceCard .infos .detail {
   margin-bottom: 10px;
   font-size: 0.85em;
   color: rgba(21, 37, 54, 0.7);
 }
-
 .ResourceCard .infos .txt {
   border-top: 2px solid rgba(0, 0, 0, 0.679);
   padding-top: 13px;
@@ -113,7 +107,6 @@
   opacity: 0;
   transition: 0.5s 0.25s cubic-bezier(0.17, 0.67, 0.5, 1.03);
 }
-
 .ResourceCard .infos .details {
   padding-bottom: 19px;
   letter-spacing: 1px;
@@ -145,7 +138,6 @@
   line-height: 1.5em;
   max-height: 7.5em;
 }
-
 .ResourceCard:hover .infos {
   -webkit-transform: translateY(-400px);
   transform: translateY(-400px);
@@ -174,46 +166,28 @@
 .ResourceCard:hover .infos .details {
   opacity: 1;
 }
-
 .ResourceCard {
   text-align: left;
 }
 
-.infos-links {
+.infos-links{
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
 
-.infos-link {
+.infos-link{
   font-family: turnkey-medium;
   font-size: 18px;
   color: black;
   text-decoration: none;
-  display: inline-flex;
-  align-items: center;
+  display: inline-block;
   transition: all 0.3s ease;
-  width: fit-content;
-  border-bottom: 2px solid black;
-  padding-bottom: 2px;
 }
 
 .infos-link:hover {
   color: #080808;
   transform: translateX(5px);
-}
-
-.visit-text {
-  margin-right: 8px;
-}
-
-.visit-arrow {
-  font-size: 20px;
-  transition: transform 0.3s ease;
-}
-
-.infos-link:hover .visit-arrow {
-  transform: translateX(3px);
 }
 
 .type-chip {
@@ -226,11 +200,9 @@
   text-transform: uppercase;
   font-family: turnkey-light;
   margin-top: 10px;
-  min-width: 40px;
-  text-align: center;
 }
 
-.infos-title {
+.infos-title{
   color: black;
   font-family: turnkey-medium;
   font-size: 1.5rem;
@@ -241,8 +213,4 @@
   .ResourceCard {
     width: 250px;
   }
-}
-
-.technology-resources {
-  padding: 15px;
 }
