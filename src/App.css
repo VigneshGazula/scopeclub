@@ -551,7 +551,7 @@ body {
 
 
 .explore-resources {
-  margin-top: 10%;
+  margin-top: 0%;
   height: 100%;
 }
 
@@ -741,6 +741,69 @@ svg.twitter, svg.instagram, svg.linkedIn, svg.github {
 
 /* Apply GSAP animations with JavaScript */
 
+.codesense-section{
+  height: 70vh;
+  width: 100vw;
+  padding:9%;
+  display: flex;
+  gap: 20px;
+  margin-bottom: 10%;
+}
+
+.codesense-left{
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.codesense-left-head{
+  font-family: turnkey-bold;
+  font-size: 60px;
+  color: #36be00;
+}
+
+.codesense-left-caption{
+  font-family: turnkey-light;
+  font-size: 16px;
+  color: #ffffffdb;
+  letter-spacing: 0.05rem;
+  margin-top: 2%;
+}
+
+.codesense-left-btn{
+  font-family: turnkey-bold;
+  font-size: 18px;
+  color: #fff;
+  background-color: #36be00;
+  width: fit-content;
+  border-radius: 27.44px;
+  padding: 10px 30px;
+  border: 1px solid white;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.codesense-left-btn-link{
+  text-decoration: none;
+  color: #fff;
+}
+
+
+
+
+.codesense-right{
+  width: 50%;
+  height: 100%;
+}
+
+.codesense-image{
+  width: 100%;
+  height: fit-content;
+}
 
 
 /* Desktop: 2x4 grid */
@@ -1063,6 +1126,28 @@ svg.twitter, svg.instagram, svg.linkedIn, svg.github {
     max-height: calc(100vh - 56px);
     overflow-y: auto;
   }
+
+  
+.codesense-section{
+  display: flex;
+  flex-direction: column;
+  padding: 5%;
+  gap: 100px;
+  height: 90vh;
+}
+
+.codesense-left{
+  width: 100%;
+  gap: 5px;
+}
+
+.codesense-right{
+  width: 100%;
+}
+
+.codesense-left-head{
+  font-size: 37px;
+}
 }
 
 a#logo {
