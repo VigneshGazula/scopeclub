@@ -96,6 +96,18 @@ export const t25 = [
     },
   },
   {
+    id: 8,
+    name: "Sai Tharun",
+    position: "TECHNICAL",
+    alt: "Tarun",
+    image: "Team/t25/SAITHARUN.jpg",
+    socials: {
+      linkedin: "/",
+      github: "/",
+      instagram:"/",
+    },
+  },
+  {
     id: 9,
     name: "Snehith",
     position: "CONTENT WRITER",
@@ -141,6 +153,19 @@ export const t25 = [
       linkedin: "/",
       github: '/',
       instagram:'/',
+    },
+  },
+
+  {
+    id: 13,
+    name: "Anvesh Sai",
+    position: "WEBSITE HANDLER",
+    alt: "Sai",
+    image: "Team/t25/ANVESH_SAI.jpg",
+    socials: {
+      linkedin: "/",
+      github: "/",
+      instagram:"/",
     },
   },
   {

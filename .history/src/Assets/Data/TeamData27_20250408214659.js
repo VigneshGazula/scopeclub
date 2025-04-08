@@ -49,7 +49,7 @@ export const t27 = [
   },
   {
     id: 4,
-    name: "Satwik Raj",
+    name: "Sathwik Raj",
     position: "Technical Member",
     alt: "Geethika",
     image: "Team/t27/Sathwik Raj.jpeg",
@@ -138,7 +138,7 @@ export const t27 = [
   {
     id: 11,
     name: "Karthik Reddy",
-    position: "Content Writer",
+    position: "Content Writing Lead",
     alt: "Karthik Reddy",
     image: "Team/t27/Karthik Reddy.jpeg",
     socials: {

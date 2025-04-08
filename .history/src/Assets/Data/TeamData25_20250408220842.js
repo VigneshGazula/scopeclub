@@ -143,6 +143,19 @@ export const t25 = [
       instagram:'/',
     },
   },
+
+  {
+    id: 13,
+    name: "Anvesh Sai",
+    position: "WEBSITE HANDLER",
+    alt: "Sai",
+    image: "Team/t25/ANVESH_SAI.jpg",
+    socials: {
+      linkedin: "/",
+      github: "/",
+      instagram:"/",
+    },
+  },
   {
     id: 14,
     name: "Chakravarthy",
