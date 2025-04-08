@@ -15,7 +15,7 @@ function Home() {
   const headingsRef = useRef([]);
 
   useEffect(() => {
-    gsap.utils.toArray([".wdwd-01-num", ".wdwd-02-num", ".wdwd-03-num", ".wdwd-04-num"]).forEach((num) => {
+    gsap.utils.toArray([".wdwd-01-num", ".wdwd-02-num", ".wdwd-03-num"]).forEach((num) => {
       gsap.to(num, {
         color: "#33d90b", // Hover color
         duration: 0.5, // Smooth transition
@@ -176,12 +176,13 @@ function Home() {
             <p className="wdwd-03-content">At SCOPE Club, we believe that coding is more than just solving problems—it's about building real-world solutions. Through our project-based learning approach, we encourage students to collaborate, innovate, and develop projects that have a tangible impact.</p>
           </div>
         </div>
-        <div className="wdwe-04-container">
-          <div className="wdwd-04">
-            <h3 className="wdwd-04-head">Sessions</h3>
-            <p className="wdwd-04-content">Scope Sessions are peer-led technical learning classes organized by Team Scope to help students strengthen their programming fundamentals and grow through collaborative, hands-on learning. Conducted weekly by experienced seniors, these sessions simplify complex topics using real-world examples, interactive discussions, and practical coding exercises. What makes Scope Sessions unique is the supportive environment they foster—bridging the gap between classroom concepts and real-world application. They promote curiosity, consistent practice, and skill-building, preparing participants for hackathons, internships, and placements while offering a clear pathway for technical growth and mentorship on campus.</p>
+        <div className="wdwe-03-container">
+        <div className="wdwd-03">
+            <h3 className="wdwd-03-head">Projects</h3>
+            <p className="wdwd-03-content">At SCOPE Club, we believe that coding is more than just solving problems—it's about building real-world solutions. Through our project-based learning approach, we encourage students to collaborate, innovate, and develop projects that have a tangible impact.</p>
           </div>
-          <p className="wdwd-04-num">04.</p>
+          <p className="wdwd-03-num">04.</p>
+          
         </div>
         </div>
       </div>

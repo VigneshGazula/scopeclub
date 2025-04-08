@@ -15,7 +15,7 @@ function Home() {
   const headingsRef = useRef([]);
 
   useEffect(() => {
-    gsap.utils.toArray([".wdwd-01-num", ".wdwd-02-num", ".wdwd-03-num", ".wdwd-04-num"]).forEach((num) => {
+    gsap.utils.toArray([".wdwd-01-num", ".wdwd-02-num", ".wdwd-03-num"]).forEach((num) => {
       gsap.to(num, {
         color: "#33d90b", // Hover color
         duration: 0.5, // Smooth transition

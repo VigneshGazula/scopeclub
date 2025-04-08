@@ -365,8 +365,7 @@ body {
 
 .wdwe-01-container,
 .wdwe-02-container,
-.wdwe-03-container,
-.wdwe-04-container {
+.wdwe-03-container {
   display: flex;
   align-items: center;
   padding-top: 50px;
@@ -375,8 +374,7 @@ body {
 
 .wdwd-01-num,
 .wdwd-02-num,
-.wdwd-03-num,
-.wdwd-04-num {
+.wdwd-03-num {
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: #36be00;
   color: transparent;
@@ -390,8 +388,7 @@ body {
 
 .wdwd-01,
 .wdwd-02,
-.wdwd-03,
-.wdwd-04 {
+.wdwd-03 {
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -399,8 +396,7 @@ body {
 
 .wdwd-01-head,
 .wdwd-02-head,
-.wdwd-03-head,
-.wdwd-04-head {
+.wdwd-03-head {
   width: fit-content;
   padding-bottom: 10px;
   color: #fff;
@@ -415,8 +411,7 @@ body {
 
 .wdwd-01-content,
 .wdwd-02-content,
-.wdwd-03-content,
-.wdwd-04-content {
+.wdwd-03-content {
   color: #ffffffdb;
   font-family: turnkey-light;
   font-size: 16px;
