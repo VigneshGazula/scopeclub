@@ -143,7 +143,7 @@ function Home() {
         <div className="is-circle-light"></div>
         <div className="is-top-layer">
           <div className="is-contents">
-            <h2 ref={(el) => (headingsRef.current[0] = el)} className='is-head'>Inside <span className="highlighted">SCOPE.</span></h2>
+            <h2 ref={(el) => (headingsRef.current[0] = el)} className='is-head'>Inside <span className="highlighted">Scope.</span></h2>
             <p className='is-caption'>SCOPE Club, the technical club of MLRIT, fosters a strong coding culture through collaboration and events in AI, Open Source, Game Development, Web & App Development, and more. It connects students with experienced mentors, providing an official platform for guidance, networking, and growth beyond campus boundaries.</p>
           </div>
           <div className="is-image">
@@ -176,12 +176,10 @@ function Home() {
             <p className="wdwd-03-content">At SCOPE Club, we believe that coding is more than just solving problems—it's about building real-world solutions. Through our project-based learning approach, we encourage students to collaborate, innovate, and develop projects that have a tangible impact.</p>
           </div>
         </div>
-
-
         <div className="wdwe-04-container">
           <div className="wdwd-04">
             <h3 className="wdwd-04-head">SCOPE sessions</h3>
-            <p className="wdwd-04-content">SCOPE Sessions are weekly peer-led technical classes by Team SCOPE, designed to strengthen programming fundamentals through hands-on, collaborative learning. Led by experienced seniors, they simplify complex topics with real-world examples and interactive coding. These sessions bridge classroom learning and real-world application, fostering curiosity, consistency, and skill-building—preparing students for hackathons, internships, placements, and continuous technical growth through mentorship.</p>
+            <p className="wdwd-04-content">Scope Sessions are weekly peer-led technical classes by Team Scope, designed to strengthen programming fundamentals through hands-on, collaborative learning. Led by experienced seniors, they simplify complex topics with real-world examples and interactive coding. These sessions bridge classroom learning and real-world application, fostering curiosity, consistency, and skill-building—preparing students for hackathons, internships, placements, and continuous technical growth through mentorship.</p>
           </div>
           <p className="wdwd-04-num">04.</p>
         </div>

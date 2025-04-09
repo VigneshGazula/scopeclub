@@ -68,7 +68,7 @@ function Navbar() {
               </li>
             </ul>
             <form className="d-flex order-lg-4 justify-content-center" role="search">
-              <a href="https://linktr.ee/scopeclub" target="_blank" rel="noopener noreferrer" className="linktree" onClick={closeNavbar}>
+              <a href="https://linktr.ee/mlritscope" target="_blank" rel="noopener noreferrer" className="linktree" onClick={closeNavbar}>
                 <button className="btn btn-outline-success joinus-btn" type="button">
                   Join Us
                 </button>

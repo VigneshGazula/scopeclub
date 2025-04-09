@@ -76,7 +76,7 @@ function Navbar() {
             </form>
           </div>
         </div>
-      </nav>
+      </nav>https://linktr.ee/scopeclub
     </div>
   );
 }

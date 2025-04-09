@@ -181,7 +181,7 @@ function Home() {
         <div className="wdwe-04-container">
           <div className="wdwd-04">
             <h3 className="wdwd-04-head">SCOPE sessions</h3>
-            <p className="wdwd-04-content">SCOPE Sessions are weekly peer-led technical classes by Team SCOPE, designed to strengthen programming fundamentals through hands-on, collaborative learning. Led by experienced seniors, they simplify complex topics with real-world examples and interactive coding. These sessions bridge classroom learning and real-world application, fostering curiosity, consistency, and skill-building—preparing students for hackathons, internships, placements, and continuous technical growth through mentorship.</p>
+            <p className="wdwd-04-content">Scope Sessions are weekly peer-led technical classes by Team SCOPE, designed to strengthen programming fundamentals through hands-on, collaborative learning. Led by experienced seniors, they simplify complex topics with real-world examples and interactive coding. These sessions bridge classroom learning and real-world application, fostering curiosity, consistency, and skill-building—preparing students for hackathons, internships, placements, and continuous technical growth through mentorship.</p>
           </div>
           <p className="wdwd-04-num">04.</p>
         </div>
