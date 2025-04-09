@@ -309,7 +309,7 @@ function Home() {
       <div className="codesense-section">
         <div className="codesense-left">
           <h2 ref={(el) => (headingsRef.current[4] = el)} className="codesense-left-head">CodeStats.</h2>
-          <p className="codesense-left-caption">Codestats is a platform that helps you learn coding by solving real-world problems. It's a platform that helps you learn coding by solving real-world problems.</p>
+          <p className="codesense-left-caption">Codestats is a platform that helps you learn coding by solving real-world problems.</p>
           <button className="codesense-left-btn"><a className="codesense-left-btn-link" href="https://scope.mlrit.ac.in" target="_blank" rel="noopener noreferrer">Visit</a></button>
         </div>
         <div className="codesense-right">
