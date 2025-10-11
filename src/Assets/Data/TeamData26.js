@@ -24,18 +24,6 @@ export const t26 = [
     },
   },
   {
-    id: 2,
-    name: "K Indra Koushik",
-    position: "Treasurer",
-    alt: "K Indra Koushik",
-    image: "Team/t26/koushik.jpg",
-    socials: {
-      github: "https://github.com/K-Indra-Koushik/K-Indra-Koushik.git",
-      instagram: "https://www.instagram.com/___leo_roar_________/",
-      linkedin: "https://www.linkedin.com/in/k-indra-koushik-2b26a4294/",
-    },
-  },
-  {
     id: 3,
     name: "Asreetha Guvvala",
     position: "Secretary",
@@ -45,6 +33,18 @@ export const t26 = [
       github: "",
       instagram: "",
       linkedin: "",
+    },
+  },
+  {
+    id: 2,
+    name: "K Indra Koushik",
+    position: "Treasurer",
+    alt: "K Indra Koushik",
+    image: "Team/t26/koushik.jpg",
+    socials: {
+      github: "https://github.com/K-Indra-Koushik/K-Indra-Koushik.git",
+      instagram: "https://www.instagram.com/___leo_roar_________/",
+      linkedin: "https://www.linkedin.com/in/k-indra-koushik-2b26a4294/",
     },
   },
   {
