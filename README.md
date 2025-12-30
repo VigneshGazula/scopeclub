@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SCOPE Club Banner](https://via.placeholder.com/1200x300/1e2327/58a6ff?text=SCOPE+Club+-+School+Of+Programming+Excellence)
+![SCOPE Club Banner]([https://via.placeholder.com/1200x300/1e2327/58a6ff?text=SCOPE+Club+-+School+Of+Programming+Excellence](https://scopeclub.vercel.app/static/media/scope-logo.e4e29aca53e180e89c03.png))
 
 **The Digital Home of MLRIT's Premier Technical Community**
 
