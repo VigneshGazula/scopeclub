@@ -8,7 +8,7 @@
     "image":"images/awscloudtrek.png",
     "image2":"Events/awscloudtrek.png",
     "description": "The AWS Cloud Club MLRIT, under the SCOPE Club, is hosting a two-day hands-on AWS workshop on 17-18 October 2025. Participants will get practical experience with key AWS services like Amazon S3, EC2, and application deployment with custom domains. Attendees will receive AWS Cloud Academy resources and participation certificates, with top performers earning rewards and special recognition. This workshop aims to boost cloud computing skills through industry-relevant, experiential learning.",
-    "status":"1",
+    "status":"0",
     "prize": "AWS Swag Kits",
     "registrationLink": "https://luma.com/l4sxxhst"
   },
